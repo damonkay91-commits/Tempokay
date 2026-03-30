@@ -1,0 +1,14 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Tempokay",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tempokay",
+  "start_url": "start_url:https://damonkay91.github.io/tempokay",
+  "theme_color": "#c92121",
+  "id": "TPK",
+  "description": "Simple BPM &amp; Key (Camelot) Analyser for Vinyl DJs",
+  "lang": "en"
+}
